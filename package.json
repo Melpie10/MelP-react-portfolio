@@ -1,6 +1,6 @@
 {
-  "homepage": "https://melpie10.github.io/MelP-react-portfolio/",
   "name": "mp-portfolio",
+  "homepage": "https://melpie10.github.io/MelP-react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
